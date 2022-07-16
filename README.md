@@ -1,5 +1,5 @@
 
-# Hey, my name is Rafael Romariz 
+# Hey, my name is Rafael Romariz 🙋‍♂️
 
 
 ## 	Currently learning and developing on the front end 💻
