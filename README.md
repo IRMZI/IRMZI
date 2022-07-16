@@ -10,4 +10,3 @@ My Softskills:Communicative and focused on teamwork person.
 
 
 
-![Logo](https://media-exp2.licdn.com/dms/image/C4D03AQHx9fwFXK_bYQ/profile-displayphoto-shrink_800_800/0/1652208878534?e=1663200000&v=beta&t=nW_j2KTdkxAS2DAY4-Bb7ZKKVK373mjtb5NhZ99DHIM)
