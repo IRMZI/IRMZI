@@ -3,7 +3,7 @@
 
 
 ## 	Currently learning and developing on the front end 💻
-### Next steps: React and UX
+### Next steps: VUE and UX
 My hardskills:HTML/CSS,JS,UI      
 My Softskills:Communicative and focused on teamwork person.
 
