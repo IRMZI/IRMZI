@@ -3,7 +3,7 @@
 
 
 ## 	Currently learning and developing on the front end 💻
-### Next steps: STACK FROM REACT 
+### Next steps: STACKING REACT
 My hardskills:HTML/CSS,JS,UI      
 My Softskills:Communicative and focused on teamwork person.
 
